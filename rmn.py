@@ -1,5 +1,4 @@
 # from IPython.display import Image
-import cv2
 from streamlit import uploaded_file_manager
 from rmn import RMN
 #streamlit library
